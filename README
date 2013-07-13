@@ -1,0 +1,3 @@
+Simple analog watchface for Pebble.
+
+Analog watch without minute hand-just an hour hand, german date, day of month, calendar week and on the left the minutes as number (for clear readability).
