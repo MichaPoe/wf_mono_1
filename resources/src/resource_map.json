@@ -1,0 +1,12 @@
+{
+	"friendlyVersion": "0.1",
+	"versionDefName": "WF_MONO_1",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/wf_mono_1_icon.png"
+		}
+	]
+}
+
